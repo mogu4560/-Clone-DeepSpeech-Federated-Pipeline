@@ -180,3 +180,4 @@
 - [2026-05-24T18:41:12] Refactor core module performance and memory allocation (v1.40)
 - [2025-04-10T14:37:04] Fix minor formatting and docstring type hints (v1.1)
 - [2025-04-13T17:14:15] Update README architecture diagrams and quickstart commands (v1.2)
+- [2025-04-16T18:47:52] Tune hyperparameters and inference latency thresholds (v1.3)
