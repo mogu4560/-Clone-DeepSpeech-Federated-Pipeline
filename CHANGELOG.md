@@ -183,3 +183,4 @@
 - [2025-04-16T18:47:52] Tune hyperparameters and inference latency thresholds (v1.3)
 - [2025-04-19T17:25:45] Optimize internal query caching and vector calculations (v1.4)
 - [2025-04-22T17:52:00] Enhance logging metrics and Prometheus exporter rules (v1.5)
+- [2025-04-25T20:42:06] Update README architecture diagrams and quickstart commands (v1.6)
