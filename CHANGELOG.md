@@ -188,3 +188,4 @@
 - [2025-05-02T16:44:22] Add additional unit tests and integration edge-case handlers (v1.8)
 - [2025-05-06T16:48:09] Optimize internal query caching and vector calculations (v1.9)
 - [2025-05-10T16:42:43] Optimize internal query caching and vector calculations (v1.10)
+- [2025-05-14T19:48:17] Improve API response latency and payload sanitization (v1.11)
