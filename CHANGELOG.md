@@ -191,3 +191,4 @@
 - [2025-05-14T19:48:17] Improve API response latency and payload sanitization (v1.11)
 - [2025-05-17T19:11:14] Fix minor formatting and docstring type hints (v1.12)
 - [2025-05-21T21:51:35] Optimize internal query caching and vector calculations (v1.13)
+- [2025-05-24T11:08:05] Update README architecture diagrams and quickstart commands (v1.14)
