@@ -196,3 +196,4 @@
 - [2025-06-01T16:27:11] Update README architecture diagrams and quickstart commands (v1.16)
 - [2025-06-04T11:53:52] Enhance logging metrics and Prometheus exporter rules (v1.17)
 - [2025-06-08T15:22:41] Enhance logging metrics and Prometheus exporter rules (v1.18)
+- [2025-06-12T09:31:51] Update README architecture diagrams and quickstart commands (v1.19)
