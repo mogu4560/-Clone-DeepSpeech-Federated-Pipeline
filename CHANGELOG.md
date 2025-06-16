@@ -197,3 +197,4 @@
 - [2025-06-04T11:53:52] Enhance logging metrics and Prometheus exporter rules (v1.17)
 - [2025-06-08T15:22:41] Enhance logging metrics and Prometheus exporter rules (v1.18)
 - [2025-06-12T09:31:51] Update README architecture diagrams and quickstart commands (v1.19)
+- [2025-06-15T19:54:00] Add additional unit tests and integration edge-case handlers (v1.20)
